@@ -1,0 +1,20 @@
+.jumbotron{
+height: 250px;
+width: 500px;
+  background-color: rgb(140, 146, 156);
+}
+.display-4{
+  font-weight: bold;
+}
+.lead{
+  text-align: center;
+}
+
+td{
+  height: 50px;
+  width: 30px;
+  text-align: center;
+  border: solid 5px white ;
+  font-size: 40px;
+  font-weight: bold;
+}
